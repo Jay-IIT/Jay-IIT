@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Jay-IIT
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Jay
+- 👀 I’m interested in Working with Highly Scalable Architectures
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... Jay.bv@yahoo.com
 
-<!---
-Jay-IIT/Jay-IIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
